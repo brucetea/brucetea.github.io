@@ -42,7 +42,7 @@ author: brucetea
 #
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
-description:欢迎来到Bucetea Blog 本博克主要积累前端相关经验发现前端相关知识
+description:"欢迎来到Bucetea Blog 本博克主要积累前端相关经验发现前端相关知识"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://brucetea.github.io" # the base hostname & protocol for your site, e.g. https://example.com
