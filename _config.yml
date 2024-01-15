@@ -3,7 +3,7 @@ title: 常志闯
 subtitle: 个人站
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: brucetea
 # 头像里面的描述
 avatarDesc: 前端技术积累
 url: "https://brucetea.github.io"
@@ -11,33 +11,33 @@ url: "https://brucetea.github.io"
 # 博客是否自动生成目录，false为不生成
 enableToc: true
 
-# Comment
+# Comment 社会化的评论系统
 comment:
     # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
-    disqus: leopard
+    disqus: brucetea
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    # weibo: 5366874726 
+    github: brucetea
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    # jianshu: 2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 18004462689@163.com
 
 
-# 百度统计 
+# 百度统计  https://tongji.baidu.com/web/welcome/login?castk=LTE%3D
 # 使用博客模板请去掉或者更换 id 
-baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  
+# baidu:
+#     id: 8ba1c6be0953b6f9c2ba38e57f615421  
 
-# Google Analytics
+# Google Analytics 谷歌统计
 # 使用博客模板请去掉或者更换 id
-ga:
-    id: UA-84134159-3  
-    host: auto  
+# ga:
+#     id: UA-84134159-3  
+#     host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
@@ -56,7 +56,7 @@ highlighter: rouge
 
 textColor: #FF0000
 
-# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty. 侧边栏颜色
 cover_color: clear
 
 # The blog button should not be removed.
